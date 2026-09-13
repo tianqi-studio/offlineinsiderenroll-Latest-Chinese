@@ -4,8 +4,8 @@
 ## 简介
 OfflineInsiderEnroll 是一款简易的 Windows 命令提示符脚本，用于在未登录微软账户的设备上启用 **_Windows 预览体验计划_** 的访问权限。
 本脚本仅兼容 Windows 11 以及 Windows 10 1809 及更高版本。
-* apoint123的简体中文分支：[apoint123的简体中文]([https://github.com/apoint123/offlineinsiderenroll](https://github.com/apoint123/offlineinsiderenroll))
-* abbodi1406的原仓库：[原仓库]([https://github.com/apoint123/offlineinsiderenroll](https://github.com/apoint123/offlineinsiderenroll))
+* apoint123的简体中文分支：https://github.com/apoint123/offlineinsiderenroll
+* abbodi1406的原仓库：https://github.com/abbodi1406/offlineinsiderenroll
 
 ## 使用方法
 运行本脚本需要管理员权限。你只需右键点击脚本文件，选择「以管理员身份运行」即可执行。
